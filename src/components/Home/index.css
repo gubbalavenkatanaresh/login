@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  margin: 20px;
+  align-items: center;
+}
+.clothes-img {
+  margin-left: 50px;
+}
+.shop-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+}
